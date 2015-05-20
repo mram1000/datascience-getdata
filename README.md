@@ -1,11 +1,11 @@
-# datascience-getdata
+# datascience-getdata - Course Project
 
----
-#### run_analysis.R
-#### Clean dataset for gyro and accelerometer readings
-#### from smartphone readings on 30 subjects
-#### For datascience Coursera Getting and Cleaning Data
----
+-------------------------------------------------
+run_analysis.R
+Clean dataset for gyro and accelerometer readings
+from smartphone readings on 30 subjects
+For datascience Coursera Getting and Cleaning Data
+-------------------------------------------------
 
 ## Program Steps
 1. Read in the time and frequency domain variable vectors - from x_test.txt and x_train.txt
