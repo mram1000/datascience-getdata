@@ -73,6 +73,6 @@ colnames(named_data) <- gsub("-Z","Z-Axis",colnames(named_data))
 ## create tidy data set with averages by activity and subject
 tidy_data <- group_by(named_data, ActivityName, Subject)
 tidy_sum <- summarise_each(tidy_data,funs(mean))
-write.table(tidy_data, "tidy_data.txt", row.name=FALSE)
+write.table(tidy_sum, "tidy_data.txt", row.name=FALSE)
 
 
