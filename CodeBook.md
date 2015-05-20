@@ -61,65 +61,65 @@ In final tidy data set, the following attributes were created with descriptive n
 7. Time.Body.Acceleration.StdDev.Y-Axis
 8. Time.Body.Acceleration.StdDev.Z-Axis
 9. Time.Gravity.Acceleration.Mean.X-Axis
-10.Time.Gravity.Acceleration.Mean.Y-Axis
-11.Time.Gravity.Acceleration.Mean.Z-Axis
-12.Time.Gravity.Acceleration.StdDev.X-Axis
-13.Time.Gravity.Acceleration.StdDev.Y-Axis
-14.Time.Gravity.Acceleration.StdDev.Z-Axis
-15.Time.Body.Acceleration.Jerk.Mean.X-Axis
-16.Time.Body.Acceleration.Jerk.Mean.Y-Axis
-17.Time.Body.Acceleration.Jerk.Mean.Z-Axis
-18.Time.Body.Acceleration.Jerk.StdDev.X-Axis
-19.Time.Body.Acceleration.Jerk.StdDev.Y-Axis
-20.Time.Body.Acceleration.Jerk.StdDev.Z-Axis
-21.Time.Body.Gyroscope.Mean.X-Axis
-22.Time.Body.Gyroscope.Mean.Y-Axis
-23.Time.Body.Gyroscope.Mean.Z-Axis
-24.Time.Body.Gyroscope.StdDev.X-Axis
-25.Time.Body.Gyroscope.StdDev.Y-Axis
-26.Time.Body.Gyroscope.StdDev.Z-Axis
-27.Time.Body.Gyroscope.Jerk.Mean.X-Axis
-28.Time.Body.Gyroscope.Jerk.Mean.Y-Axis
-29.Time.Body.Gyroscope.Jerk.Mean.Z-Axis
-30.Time.Body.Gyroscope.Jerk.StdDev.X-Axis
-31.Time.Body.Gyroscope.Jerk.StdDev.Y-Axis
-32.Time.Body.Gyroscope.Jerk.StdDev.Z-Axis
-33.Time.Body.Acceleration.Mag.Mean.
-34.Time.Body.Acceleration.Mag.StdDev.
-35.Time.Gravity.Acceleration.Mag.Mean.
-36.Time.Gravity.Acceleration.Mag.StdDev.
-37.Time.Body.Acceleration.Jerk.Mag.Mean.
-38.Time.Body.Acceleration.Jerk.Mag.StdDev.
-39.Time.Body.Gyroscope.Mag.Mean.
-40.Time.Body.Gyroscope.Mag.StdDev.
-41.Time.Body.Gyroscope.Jerk.Mag.Mean.
-42.Time.Body.Gyroscope.Jerk.Mag.StdDev.
-43.Freq.Body.Acceleration.Mean.X-Axis
-44.Freq.Body.Acceleration.Mean.Y-Axis
-45.Freq.Body.Acceleration.Mean.Z-Axis
-46.Freq.Body.Acceleration.StdDev.X-Axis
-47.Freq.Body.Acceleration.StdDev.Y-Axis
-48.Freq.Body.Acceleration.StdDev.Z-Axis
-49.Freq.Body.Acceleration.Jerk.Mean.X-Axis
-50.Freq.Body.Acceleration.Jerk.Mean.Y-Axis
-51.Freq.Body.Acceleration.Jerk.Mean.Z-Axis
-52.Freq.Body.Acceleration.Jerk.StdDev.X-Axis
-53.Freq.Body.Acceleration.Jerk.StdDev.Y-Axis
-54.Freq.Body.Acceleration.Jerk.StdDev.Z-Axis
-55.Freq.Body.Gyroscope.Mean.X-Axis
-56.Freq.Body.Gyroscope.Mean.Y-Axis
-57.Freq.Body.Gyroscope.Mean.Z-Axis
-58.Freq.Body.Gyroscope.StdDev.X-Axis
-59.Freq.Body.Gyroscope.StdDev.Y-Axis
-60.Freq.Body.Gyroscope.StdDev.Z-Axis
-61.Freq.Body.Acceleration.Mag.Mean.
-62.Freq.Body.Acceleration.Mag.StdDev.
-63.Freq.BodyBody.Acceleration.Jerk.Mag.Mean.
-64.Freq.BodyBody.Acceleration.Jerk.Mag.StdDev.
-65.Freq.BodyBody.Gyroscope.Mag.Mean.
-66.Freq.BodyBody.Gyroscope.Mag.StdDev.
-67.Freq.BodyBody.Gyroscope.Jerk.Mag.Mean.
-68.Freq.BodyBody.Gyroscope.Jerk.Mag.StdDev.
+10. Time.Gravity.Acceleration.Mean.Y-Axis
+11. Time.Gravity.Acceleration.Mean.Z-Axis
+12. Time.Gravity.Acceleration.StdDev.X-Axis
+13. Time.Gravity.Acceleration.StdDev.Y-Axis
+14. Time.Gravity.Acceleration.StdDev.Z-Axis
+15. Time.Body.Acceleration.Jerk.Mean.X-Axis
+16. Time.Body.Acceleration.Jerk.Mean.Y-Axis
+17. Time.Body.Acceleration.Jerk.Mean.Z-Axis
+18. Time.Body.Acceleration.Jerk.StdDev.X-Axis
+19. Time.Body.Acceleration.Jerk.StdDev.Y-Axis
+20. Time.Body.Acceleration.Jerk.StdDev.Z-Axis
+21. Time.Body.Gyroscope.Mean.X-Axis
+22. Time.Body.Gyroscope.Mean.Y-Axis
+23. Time.Body.Gyroscope.Mean.Z-Axis
+24. Time.Body.Gyroscope.StdDev.X-Axis
+25. Time.Body.Gyroscope.StdDev.Y-Axis
+26. Time.Body.Gyroscope.StdDev.Z-Axis
+27. Time.Body.Gyroscope.Jerk.Mean.X-Axis
+28. Time.Body.Gyroscope.Jerk.Mean.Y-Axis
+29. Time.Body.Gyroscope.Jerk.Mean.Z-Axis
+30. Time.Body.Gyroscope.Jerk.StdDev.X-Axis
+31. Time.Body.Gyroscope.Jerk.StdDev.Y-Axis
+32. Time.Body.Gyroscope.Jerk.StdDev.Z-Axis
+33. Time.Body.Acceleration.Mag.Mean.
+34. Time.Body.Acceleration.Mag.StdDev.
+35. Time.Gravity.Acceleration.Mag.Mean.
+36. Time.Gravity.Acceleration.Mag.StdDev.
+37. Time.Body.Acceleration.Jerk.Mag.Mean.
+38. Time.Body.Acceleration.Jerk.Mag.StdDev.
+39. Time.Body.Gyroscope.Mag.Mean.
+40. Time.Body.Gyroscope.Mag.StdDev.
+41. Time.Body.Gyroscope.Jerk.Mag.Mean.
+42. Time.Body.Gyroscope.Jerk.Mag.StdDev.
+43. Freq.Body.Acceleration.Mean.X-Axis
+44. Freq.Body.Acceleration.Mean.Y-Axis
+45. Freq.Body.Acceleration.Mean.Z-Axis
+46. Freq.Body.Acceleration.StdDev.X-Axis
+47. Freq.Body.Acceleration.StdDev.Y-Axis
+48. Freq.Body.Acceleration.StdDev.Z-Axis
+49. Freq.Body.Acceleration.Jerk.Mean.X-Axis
+50. Freq.Body.Acceleration.Jerk.Mean.Y-Axis
+51. Freq.Body.Acceleration.Jerk.Mean.Z-Axis
+52. Freq.Body.Acceleration.Jerk.StdDev.X-Axis
+53. Freq.Body.Acceleration.Jerk.StdDev.Y-Axis
+54. Freq.Body.Acceleration.Jerk.StdDev.Z-Axis
+55. Freq.Body.Gyroscope.Mean.X-Axis
+56. Freq.Body.Gyroscope.Mean.Y-Axis
+57. Freq.Body.Gyroscope.Mean.Z-Axis
+58. Freq.Body.Gyroscope.StdDev.X-Axis
+59. Freq.Body.Gyroscope.StdDev.Y-Axis
+60. Freq.Body.Gyroscope.StdDev.Z-Axis
+61. Freq.Body.Acceleration.Mag.Mean.
+62. Freq.Body.Acceleration.Mag.StdDev.
+63. Freq.BodyBody.Acceleration.Jerk.Mag.Mean.
+64. Freq.BodyBody.Acceleration.Jerk.Mag.StdDev.
+65. Freq.BodyBody.Gyroscope.Mag.Mean.
+66. Freq.BodyBody.Gyroscope.Mag.StdDev.
+67. Freq.BodyBody.Gyroscope.Jerk.Mag.Mean.
+68. Freq.BodyBody.Gyroscope.Jerk.Mag.StdDev.
 
 ###Further processing by Madhu Ram for Coursera project
 
